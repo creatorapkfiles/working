@@ -1,0 +1,25 @@
+[33mcommit 818a158909a25778fb8529a98cf63ee5ddc14847[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: Dima <dimashumilow2017@yandex.ru>
+Date:   Tue Jan 28 15:42:48 2025 +0300
+
+    Your short summary about the commit
+
+[1mdiff --git a/src/main/java/PlusOne/Solution.java b/src/main/java/PlusOne/Solution.java[m
+[1mindex a7defc2..78ecd8e 100644[m
+[1m--- a/src/main/java/PlusOne/Solution.java[m
+[1m+++ b/src/main/java/PlusOne/Solution.java[m
+[36m@@ -4,5 +4,14 @@[m [mpublic class Solution {[m
+     public int[] plusOne(int[] digits) {[m
+         return digits;[m
+         // ты должен тут что-то изменить!!![m
+[32m+[m[32m        ывап[m
+[32m+[m[32m                выалпв[m
+[32m+[m[32m                авпвап[m
+[32m+[m[32m                        в[m
+[32m+[m[32m                        апв[m
+[32m+[m[32m                                ап[m
+[32m+[m
+[32m+[m[32m                                вапва[m
+[32m+[m
+     }[m
+ }[m
